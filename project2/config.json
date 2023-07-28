@@ -1,0 +1,25 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/codingthunder",
+
+        "prod_uri":"mysql://root:@localhost/codingthunder",
+        "fb_url":"https://facebook.com",
+        "tw_url":"https://twitter.com/mistflower_indeed",
+        "gh_url":"https://github.com/shaikmosin",
+        "blog_name":"Star Thunder",
+        "tag_line":"A Blog Liked By Programmers",
+        "gmail_user":"mail@Gmail.com",
+        "gmail_password":"g-mail password",
+        "about_text":"HI this is Mosin and i am studyin in IIIt Basar currently persuing Computer Science -2",
+        "no_of_posts":2,
+        "login_img":"login.svg",
+        "admin_user":"Mosin",
+        "admin_password":"123456789",
+        "upload_location":"C:\\Users\\shaik\\OneDrive\\Desktop\\python\\flask",
+        "login":"log in"
+        
+
+    }
+}
